@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://monteiro.github.io
+title: Surrogate code
+subtitle: My tech experiments.
+author: Hugo Monteiro
 simple_search: http://google.com/search
 description:
 
